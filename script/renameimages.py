@@ -1,6 +1,6 @@
 import os
 
-# Pasta onde as imagens estão localizadas
+# Pasta onde as imagens estão localizadas (Cole o diretório aqui)
 imgFold = input("Diretório:").replace('\\', '/')
 
 # Palavra que você deseja remover dos nomes das imagens
